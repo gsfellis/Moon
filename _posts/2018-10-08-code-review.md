@@ -4,7 +4,8 @@ title:  "Code Review"
 date:   2018-10-08
 excerpt: "Code Review and Enhancement Plan for the Noob SNHUbot Project."
 tag:
-- test
+- Noob SNHUbot
+- code review
 comments: false
 ---
 

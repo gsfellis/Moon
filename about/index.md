@@ -7,7 +7,7 @@ date: 2018-10-08
 comments: false
 ---
 
-![James A. Garfield]({{ site.url }}/assets/img/jg_250x250.png){img: center}
+![James A. Garfield]({{ site.url }}/assets/img/jg_250x250.png){: .img-circle}
 
 Hello, I'm Greg. Yes, that's a picture of James A. Garfield. He was a great president with an amazing beard. Also, I like lasagna.
 

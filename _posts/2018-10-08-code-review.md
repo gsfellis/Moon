@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Code Review"
 date:   2018-10-08
-excerpt: "Code Review and Enhancement Plan."
+excerpt: "Code Review and Enhancement Plan for the Noob SNHUbot Project."
 tag:
+- test
 comments: false
 ---
 

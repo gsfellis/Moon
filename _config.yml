@@ -1,7 +1,7 @@
 # Site
 title:              Gregory S. Fellis
 bio:                'CS499 Project Portfolio.'
-description:        "CS499 Project Portfolio and Noob SNHUbot Enhancement Projects."
+description:        "Noob SNHUbot Project Enhancements for CS499."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/jg_250x250.png'
@@ -42,7 +42,7 @@ twitter:            gsfellis
 #facebook:           username
 github-url:         gsfellis
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          gsfellis
+linkedin:           gsfellis
 #xing:              username
 #instagram:          username
 #lastfm:            username

@@ -8,7 +8,7 @@ tag:
 comments: false
 ---
 
-Enhancement code can be found in the [feature_scheduler](https://github.com/gsfellis/noob_snhubot/tree/feature_scheduler) repository.
+<center><a href="https://github.com/gsfellis/noob_snhubot/tree/feature_scheduler" class="btn btn-success">View the Source</a></center>
 
 {% capture images %}
     {{ site.url }}/assets/img/task_scheduler_code1.png

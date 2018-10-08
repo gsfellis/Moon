@@ -8,9 +8,12 @@ tag:
 comments: false
 ---
 
-![Noob SNHUbot performing scheduled task]({{ site.url }}/assets/img/task_scheduler.png)
+{% capture images %}
+	{{ site.url }}/assets/img/task_scheduler.png	
+{% endcapture %}
+{% include gallery images=images caption="Noob SNHUbot" cols=3 %}
 
-Enhancement code can be found in the ![feature_scheduler](https://github.com/gsfellis/noob_snhubot/tree/feature_scheduler) repository.
+Enhancement code can be found in the [feature_scheduler](https://github.com/gsfellis/noob_snhubot/tree/feature_scheduler) repository.
 
 ---
 
@@ -32,7 +35,7 @@ There are several reasons I elected to include this in my portfolio, not the lea
 Lastly, a key factor for including this project in my portfolio is that it draws attention to the passion that I have for software engineering.  I thoroughly enjoy creating software and discussing its many facets and it’s in this vein I have created a coding community of over two-hundred members seeking to network with likeminded individuals.  Many students have come to get help with their homework assignments and have stuck around for the comradery the community creates.  In the age of online and distance learning the lack of connection with other students can not be understated, and this community does its part in bringing students together who otherwise may never have met silently earning their degrees online.
 
 ## Improvements
-The first enhancement brought to the Noob SNHUbot project was to include a task scheduler.  The source code can be found in the feature_scheduler branch on the ![GitHub repository](https://github.com/gsfellis/noob_snhubot/tree/feature_scheduler).  One of the features of the bot is to give students a way to check the Packt Publishing free book of the day, without having to open a web browser and go to the page.  This book is swapped out nightly at 8:00pm Eastern, and shortly after this time usually someone will ask the bot for it.  Adding a task scheduler was a logical next step, for this use case, since it’s a timed task the should easily be automated.
+The first enhancement brought to the Noob SNHUbot project was to include a task scheduler.  The source code can be found in the feature_scheduler branch on the [GitHub repository](https://github.com/gsfellis/noob_snhubot/tree/feature_scheduler).  One of the features of the bot is to give students a way to check the Packt Publishing free book of the day, without having to open a web browser and go to the page.  This book is swapped out nightly at 8:00pm Eastern, and shortly after this time usually someone will ask the bot for it.  Adding a task scheduler was a logical next step, for this use case, since it’s a timed task the should easily be automated.
 
 The improvement was created iteratively, starting in its simplest form automating the single task of displaying the free book at a specified time.  This was done by spawning a new thread within the program, housing a scheduler set to call an internal function within the bot at a specific time.  Once I could spawn a thread to perform the task, I created a method that could be used to spawn any of the internal bot commands for a given time.  To avoid conflicts, I also needed a way to keep track of the threads being spawned.  To address this, I needed to implement a data structure that would allow me to store information about the thread being spawned, so I used a Python dictionary, an implementation of a hash table (Mapping Types, n.d.).  I used the thread ID as the key in the dictionary, and then a subsequent dictionary containing values of various data needed to track, such as the actual thread object for active querying, the time the task was scheduled for, the name of the function to be called, and the arguments passed to it.  This allows me to query active threads for the existence of scheduled tasks, to avoid duplication, and ensure the threads have executed.  This also gives me an opportunity to implement a different data structure for this purpose and researching the best data structure for this may become part of a future milestone.
 
@@ -47,6 +50,6 @@ At one point I was working on restructuring the code to make it a little more re
 The final challenge was that of keeping track of threads to not create duplicate tasks in the scheduler.  As I was building the functionality, it was quickly revealed that I would need to utilize some form of data structure to keep track of useful information for each task scheduled.  This was an early experience thinking through the selection of an appropriate data structure.  While I didn’t intend this to be a feature in the program, I found that it needed to be implemented.  I quickly put together a hash table to deal with the problem, but I’m uncertain if it’s the best data structure to use for this problem.  Because of my limited research and focus in this aspect, I have decided to focus on this data structure for the Data Structures and Algorithms enhancement.  Given enough time, I will do both this and the additional web scraping for the course catalog, but at this stage I think this will be an appropriate focus for next week’s milestone.
  
 ## References
-Dijkstra, E. W. (1971, June). Hierarchical Ordening of Sequential Processes. Retrieved from University of Texas: ![http://www.cs.utexas.edu/users/EWD/ewd03xx/EWD310.PDF](http://www.cs.utexas.edu/users/EWD/ewd03xx/EWD310.PDF)
-Mapping Types. (n.d.). Retrieved from Python.org: ![https://docs.python.org/3/library/stdtypes.html#typesmapping](https://docs.python.org/3/library/stdtypes.html#typesmapping)
-noob_snhubot - Network. (n.d.). Retrieved from GitHub: ![https://github.com/gsfellis/noob_snhubot/network](https://github.com/gsfellis/noob_snhubot/network)
+Dijkstra, E. W. (1971, June). Hierarchical Ordening of Sequential Processes. Retrieved from University of Texas: [http://www.cs.utexas.edu/users/EWD/ewd03xx/EWD310.PDF](http://www.cs.utexas.edu/users/EWD/ewd03xx/EWD310.PDF)
+Mapping Types. (n.d.). Retrieved from Python.org: [https://docs.python.org/3/library/stdtypes.html#typesmapping](https://docs.python.org/3/library/stdtypes.html#typesmapping)
+noob_snhubot - Network. (n.d.). Retrieved from GitHub: [https://github.com/gsfellis/noob_snhubot/network](https://github.com/gsfellis/noob_snhubot/network)

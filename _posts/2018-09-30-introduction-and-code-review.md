@@ -12,6 +12,8 @@ comments: false
 
 ![Noob SNHUbot has been added]({{ site.url }}/assets/img/noob_snhubot01.png)
 
+---
+
 ## Table of Contents
 
 [Introduction](#introduction)

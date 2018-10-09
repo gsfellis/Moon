@@ -6,6 +6,7 @@ excerpt: "Noob SNHUbot Enhancement 1: Task Scheduler."
 tag:
 - Noob SNHUbot
 - milestone 2
+- enhancement 1
 comments: false
 ---
 

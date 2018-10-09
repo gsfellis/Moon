@@ -16,7 +16,7 @@ comments: false
 
 [Introduction](#introduction)
 
-[Code Review](#code-review)
+[Code Review](#code-review-and-enhancement-plan)
 
 ## Introduction
 

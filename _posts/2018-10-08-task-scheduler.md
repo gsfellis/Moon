@@ -5,6 +5,7 @@ date:   2018-10-08
 excerpt: "Noob SNHUbot Enhancement 1: Task Scheduler."
 tag:
 - Noob SNHUbot
+- milestone 2
 comments: false
 ---
 

@@ -6,8 +6,11 @@ excerpt: "Introduction to the Noob SNHUbot Project with a Code Review and Enhanc
 tag:
 - Noob SNHUbot
 - code review
+- milestone 1
 comments: false
 ---
+
+![Noob SNHUbot has been added]({{ site.url }}/assets/img/noob_snhubot01.png)
 
 ## Table of Contents
 
@@ -17,11 +20,17 @@ comments: false
 
 ## Introduction
 
-The originating artifact elected for enhancement for this and future milestones is a Slack chat bot called Noob SNHUbot, originally posted to GitHub on March 16, 2018.  The project was an enrichment feature brought to the SNHU_coders Slack community I established to connect with other technology students enrolled at Southern New Hampshire University (SNHU).  In its simplest form, the chat bot simply responds to messages directed at it by members of the community, executes logic scripts and returns the output back to Slack.  Additionally, it’s the hope that other students can use the project to begin their own development journeys outside of the classroom, get familiar with GitHub and open sourced projects, and potentially create their first pull request.
+The Noob SNHUbot project is a Slack chat bot written in [Python](https://www.python.org) originally posted to [GitHub](https://github.com/gsfellis/noob_snhubot) on March 16, 2018.  The project is an enrichment feature brought to the [snhu_coders](https://snhucoders.slack.com) Slack community I established to connect with other technology students enrolled at Southern New Hampshire University.  In its simplest form, the chat bot simply responds to messages directed at it by community members, executes logic scripts and returns the output back to Slack.  While the project began as something fun for me to work on, I decided early on that I wanted it to be a community effort that others could be involved in.  It was the hope that other students can use the proejct to begin their own development journeys outside of the classroom, get familir with GitHub and open sourced projects, contribute to an active project, and potentially create their first pull requests.
 
-There are several reasons I elected to include this in my portfolio, not the least of which is the enjoyment I’ve received working on this project.  Additionally, it’s a sizeable project with many opportunities for enhancement and written in a language that many consider easy to grasp.  This allows the project to achieve its intended goal of being a collaborative project to work on within a community.  Furthermore, a recent class, CS-340: Advanced Programming Concepts, allowed me to work in Python to create a RESTful API with a MongoDB backend, which I intend to bring to Noob SNHUbot.  This will allow me to demonstrate an ability to work in a full-stack environment, including the general software development and enhancements, the underlying database, an ability to work with third-party APIs, and an ability to engineer solutions using appropriate data structures and algorithms.
+There are many reasons I elected to leverage this project to build up my portfolio, not hte least of which is the enjoyment I've recieved working on it.  It's a sizable project with many opportunities for enhancement and writtein in a language that many consider easy to grasp, aligning with the projects goal of being a collaborative project to work on within a community.  Furthermore, a recent class, CS-340: Advanced Programming Concepts, allowed me to work in Python to create a RESTful API with a [MongoDB](https://www.mongodb.com) backend, which I intend to bring to Noob SNHUbot.
 
-Lastly, a key factor for including this project in my portfolio is that it draws attention to the passion that I have for software engineering.  I thoroughly enjoy creating software and discussing its many facets and it’s in this vein I have created a coding community of over two-hundred members seeking to network with likeminded individuals.  Many students have come to get help with their homework assignments and have stuck around for the comradery the community creates.  In the age of online and distance learning the lack of connection with other students can not be understated, and this community does its part in bringing students together who otherwise may never have met silently earning their degrees online.
+As such, the project will allow me to demonstrate an ability to work in a full-stack environment, including the general software development and enhancements, the underlying database interface, an ability to work with third-party APIs, and an ability to engineer solutions using appropriate data structures and algorithms.
+
+Lastly, a key factor for including this project in my portfolio is that it draws attention to the passion that I have for software engineering.  I thoroughly enjoy creating software and discussing its many facets.  This is why I created a coding community that has surpassed two-hunderd fifty members seeking to network with likeminded individuals.  Many students have come to get help with their homework assignments and have stuck around for the comradery the community creates.  In the age of online and distance learning the lack of connection with other students can not be understated and this community does its part in bringing students together who otherwise may never have met silently earning their degrees online.
+
+I'm incredibly proud of the [snhu_coders](https://snhucoders.slack.com) community, and I'm thrilled to have the opportunity to bring new features to the Slack bot connected to it.
+
+Without further adieu, I present the project in its current state and discuss the changes I wish to bring to it.
 
 ## Code Review and Enhancement Plan
 

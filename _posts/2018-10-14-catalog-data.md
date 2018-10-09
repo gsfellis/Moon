@@ -11,10 +11,10 @@ tag:
 comments: false
 ---
 
-![SNHU Course Catalog]({{ site.url }}/assets/img/course_catalog.png)
-
 <center><a href="https://github.com/gsfellis/snhu_scrape" target="_blank" class="btn btn-success">View the Source</a></center>
 
 ---
+
+![SNHU Course Catalog]({{ site.url }}/assets/img/course_catalog.png)
 
 Post coming soon

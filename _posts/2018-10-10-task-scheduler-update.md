@@ -15,45 +15,50 @@ While working on the MongoDB implementation for enhancement 3, I decided it was 
 
 To accomodate this, I created another internal Python package for the bot to use, called `BotHelper`.  I've moved, and renamed, the former `bot_sched.py` to this package as `Scheduler.py`.  No other changes were made to the file itself. The folder structure now appears as below.
 
-```bash
-noob_snhubot
-├── BotHelper
-│   ├── __init__.py
-│   ├── MongoConnection.py
-│   └── Scheduler.py
-├── cmds
-│   ├── __init__.py
-│   ├── airspeed_velocity.py
-│   ├── channels.py
-│   ├── greet_user.py
-│   ├── help.py
-│   ├── my_name.py
-│   ├── packtbook.py
-│   └── roll.py
-├── config.yml
-├── LICENSE
-├── noob_snhubot.py
-├── README.md
-└── requirements.txt
-```
+<figure>
+    ```bash
+    noob_snhubot
+    ├── BotHelper
+    │   ├── __init__.py
+    │   ├── MongoConnection.py
+    │   └── Scheduler.py
+    ├── cmds
+    │   ├── __init__.py
+    │   ├── airspeed_velocity.py
+    │   ├── channels.py
+    │   ├── greet_user.py
+    │   ├── help.py
+    │   ├── my_name.py
+    │   ├── packtbook.py
+    │   └── roll.py
+    ├── config.yml
+    ├── LICENSE
+    ├── noob_snhubot.py
+    ├── README.md
+    └── requirements.txt
+    ```
 
-<figcaption>Project File Tree</figcaption>
+    <figcaption>Project File Tree</figcaption>
+</figure>
 
 As can be seen, we keep the `noob_snhubot_py`, `requirements.txt`,`README.md`, `LICENSE`, and the new `config.yml`, introduced in enhancement 3, in the root folder.  `BotHelper` and `cmds` are now packages as indicated by the `__init__.py`.
 
 The `BotHelper` `__init__.py` imports each of the scripts to allow the bot script to import them as if they were part of the `BotHelper`, instead of individual modules.
 
-```python
-from .Scheduler import Scheduler
-from .MongoConnection import MongoConnection
-```
+<figure>
+    ```python
+    from .Scheduler import Scheduler
+    from .MongoConnection import MongoConnection
+    ```
+    <figcaption>./BotHelper/__init__.py</figcaption>
+</figure>
 
-<figcaption>./BotHelper/__init__.py</figcaption>
+<figure>
+    ```python
+    from slackclient import SlackClient
+    from BotHelper import Scheduler
+    from BotHelper import MongoConnection
+    ```
 
-```python
-from slackclient import SlackClient
-from BotHelper import Scheduler
-from BotHelper import MongoConnection
-```
-
-<figcaption>noob_snhubot.py</figcaption>
+    <figcaption>noob_snhubot.py</figcaption>
+</figure>

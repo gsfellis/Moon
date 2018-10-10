@@ -37,6 +37,8 @@ noob_snhubot
 └── requirements.txt
 ```
 
+<figcaption>Project File Tree</figcaption>
+
 As can be seen, we keep the `noob_snhubot_py`, `requirements.txt`,`README.md`, `LICENSE`, and the new `config.yml`, introduced in enhancement 3, in the root folder.  `BotHelper` and `cmds` are now packages as indicated by the `__init__.py`.
 
 The `BotHelper` `__init__.py` imports each of the scripts to allow the bot script to import them as if they were part of the `BotHelper`, instead of individual modules.
@@ -46,10 +48,12 @@ from .Scheduler import Scheduler
 from .MongoConnection import MongoConnection
 ```
 
+<figcaption>./BotHelper/__init__.py</figcaption>
+
 ```python
 from slackclient import SlackClient
 from BotHelper import Scheduler
 from BotHelper import MongoConnection
 ```
 
-<figcaption>./BotHelper/__init__.py.</figcaption>
+<figcaption>noob_snhubot.py</figcaption>

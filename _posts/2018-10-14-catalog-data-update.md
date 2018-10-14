@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SNHU Course Catalog Data Update"
-date:   2018-10-14
+date:   2018-10-15
 excerpt: "Completing the implementation of the Course Catalog Data and Hash Table into Noob SNHUbot."
 tag:
 - Noob SNHUbot

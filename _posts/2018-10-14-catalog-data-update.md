@@ -14,7 +14,7 @@ comments: false
 
 ---
 
-![SNHU](https://static.onthehub.com/production/attachments/15/889a3e64-959b-e011-969d-0030487d8897/90884da2-e4a5-403c-8121-ba30aa6b8075.png)
+![Noob SNHUbot with Catalog]({{ site.url }}/assets/img/course_catalog_implementation.png)
 
 ---
 

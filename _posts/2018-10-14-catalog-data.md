@@ -11,7 +11,7 @@ tag:
 comments: false
 ---
 
-<center><a href="https://github.com/gsfellis/snhu_scrape" target="_blank" class="btn btn-success">View the Source</a></center>
+<center><a href="https://github.com/gsfellis/snhu_scrape" target="_blank" class="btn btn-success">View the Source</a><a href="{{ site.url }}/assets/submissions/snhu_scrape-master.zip" class="btn btn-warning">Get the Zip</a></center>
 
 ---
 

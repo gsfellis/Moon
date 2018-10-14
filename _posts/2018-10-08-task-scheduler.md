@@ -10,7 +10,7 @@ tag:
 comments: false
 ---
 
-<center><a href="https://github.com/gsfellis/noob_snhubot/tree/feature_scheduler" target="_blank" class="btn btn-success">View the Source</a></center>
+<center><a href="https://github.com/gsfellis/noob_snhubot/tree/feature_scheduler" target="_blank" class="btn btn-success">View the Source</a><a href="{{ site.url }}/assets/submissions/noob_snhubot-feature_scheduler.zip" class="btn btn-warning">Get the Submitted Zip</a></center>
 
 ---
 

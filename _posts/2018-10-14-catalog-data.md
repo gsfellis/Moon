@@ -23,7 +23,7 @@ comments: false
 
 [Introduction](#improvements)
 
-[Code Review](#reflection)
+[Reflection](#reflection)
 
 ## Improvements
 

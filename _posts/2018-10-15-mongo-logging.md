@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MongoDB Logging"
-date:   2018-10-21
+date:   2018-10-15
 excerpt: "Noob SNHUbot Enhancement 3: Logging Slackbot Interactions with MongoDB."
 tag:
 - Noob SNHUbot

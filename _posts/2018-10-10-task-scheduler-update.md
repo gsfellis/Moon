@@ -2,7 +2,7 @@
 layout: post
 title:  "Task Scheduler Update One"
 date:   2018-10-10
-excerpt: "During work on Enhancement 3, some changes occured to the way the Task Scheduler and overall project are organized."
+excerpt: "During work on Enhancement 3, some changes occurred to the way the Task Scheduler and overall project are organized."
 tag:
 - Noob SNHUbot
 - milestone 3
@@ -13,7 +13,7 @@ comments: false
 
 While working on the MongoDB implementation for enhancement 3, I decided it was time to organize the additional modules I was importing into Noob SNHUbot.  I wanted to make sure as few files as necessary were held in the root folder of the project.
 
-To accomodate this, I created another internal Python package for the bot to use, called `BotHelper`.  I've moved, and renamed, the former `bot_sched.py` to this package as `Scheduler.py`.  No other changes were made to the file itself. The folder structure now appears as below.
+To accommodate this, I created another internal Python package for the bot to use, called `BotHelper`.  I've moved and renamed the former `bot_sched.py` to this package as `Scheduler.py`.  No other changes were made to the file itself. The folder structure now appears as below.
 
 <figcaption>Project File Tree</figcaption>
 

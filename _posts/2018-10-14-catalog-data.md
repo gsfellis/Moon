@@ -31,6 +31,8 @@ The goal was to implement the [SNHU Course Catalog](https://www.snhu.edu/admissi
 
 Now that I have the data, I need to store and process it.  For persistent storage, I am outputting the JSON catalog data in a file.  I would like to migrate this to a Mongo database soon, but for now the file will do.  The catalog is, essentially, associative data, structured of keys and values, much the same as a dictionary or phone book would be organized.  In our data we have overarching subjects like “Accounting” and “Computer Science”, within each of these a series of courses such as “ACC201” or “CS200”, and then a series of encapsulated data like the course title, description, and how many credits the course is worth.  An example of the data structure has been provided below.
 
+<figcaption>Sample Data Structure</figcaption>
+
 ```python
 {
     "Accounting": {
@@ -55,12 +57,16 @@ Now that I have the data, I need to store and process it.  For persistent storag
 
 Where the data is associative, it’s an easy fit for the Hash Table data structure.  Both JSON data and the Python dict type are implementations of Hash Tables.  While it’s likely that I will end us using the Python implementation in my own program, I thought I would try to implement my own data structure for this use case.  Drawing on inspiration from the Hash Table implementation I completed for CS260, I ported much of that C++ code to Python.  The Hash Table uses string values for the key, which it hashes by calculating the key values of all the characters and performs a modulo against the size of the table.  This allows for O(1) time to access the data when searching by the key, because the same hashing function is used for inserting and retrieving data.  With such a simple hashing function, there is the chance for collisions to occur, when two string keys hash to the same integer value.  To address this, I used the same chaining technique used in CS260, so if two match the second value will be inserted at the end of a list at the hashed index slot.  If we have lots of collisions, the retrieval of data will be slowed because the list structure used must be traversed to retrieve the matching key, at a time complexity of O(n) where n is the number of items to be checked before a match is found.
 
+<figcaption>HashItem.py</figcaption>
+
 ```python
 class HashItem:
     def __init__(self, key, value):
         self.key = key
         self.value = value
 ```
+
+<figcaption>HashTable.py</figcaption>
 
 ```python
 from HashItem import HashItem

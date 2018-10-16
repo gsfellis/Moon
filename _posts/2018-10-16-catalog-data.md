@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SNHU Course Catalog Data"
-date:   2018-10-14
+date:   2018-10-16
 excerpt: "Noob SNHUbot Enhancement 2: Hash Table Implementation and Course Catalog Web Scraping with Selenium."
 tag:
 - Noob SNHUbot

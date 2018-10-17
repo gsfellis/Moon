@@ -15,4 +15,4 @@ I live in the quiet rurals of New Hampshire with my wife, dog, cat, and chickens
 
 I'm completing the capstone course for a Bachelor's Degree in Computer Science from Southern New Hampshire University.
 
-If you'd like to see a copy of my resume, you can find it <a href="{{ site.url }}/assets/docs/Gregory Fellis Resumse.pdf"  target="_blank">here</a>.
+If you'd like to see a copy of my resume, you can find it <a href="{{ site.url }}/assets/docs/Gregory Fellis Resume.pdf"  target="_blank">here</a>.

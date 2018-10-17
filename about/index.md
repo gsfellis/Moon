@@ -14,3 +14,5 @@ Hello, I'm Greg. Yes, that's a picture of James A. Garfield. He was a great pres
 I live in the quiet rurals of New Hampshire with my wife, dog, cat, and chickens. I'm just your average "programmer-at-heart, Python enthusiast, lifelong learner, Ravenclaw" that enjoys solving interesting problems with code.
 
 I'm completing the capstone course for a Bachelor's Degree in Computer Science from Southern New Hampshire University.
+
+If you'd like to see a copy of my resume, you can find it [here]({{site url}}/resume)

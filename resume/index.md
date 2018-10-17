@@ -7,7 +7,7 @@ date: 2018-10-17
 comments: false
 ---
 
-<object data="{{ site.url }}/assets/docs/Gregory Fellis Resume.pdf" type="application/pdf" width="100%" height="400px">
+<object data="{{ site.url }}/assets/docs/Gregory Fellis Resume.pdf" type="application/pdf" width="100%" height="120px">
     <embed src="{{ site.url }}/assets/docs/Gregory Fellis Resume.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it:</p>
     </embed>

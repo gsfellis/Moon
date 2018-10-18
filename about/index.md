@@ -11,8 +11,8 @@ comments: false
 
 Hello, I'm Greg. Yes, that's a picture of James A. Garfield. He was a great president with an amazing beard. Also, I like lasagna.
 
-I live in the quiet rurals of New Hampshire with my wife, dog, cat, and chickens. I'm just your average "programmer-at-heart, Python enthusiast, lifelong learner, Ravenclaw" that enjoys solving interesting problems with code.
+I'm an experienced technologist with a passionate about leveraging code to solve problems, currently employed as a Senior Systems Support Engineer.  I love automating processes and programming tools to help people get things done.
 
-I'm completing the capstone course for a Bachelor's Degree in Computer Science from Southern New Hampshire University.
+My Hogwartz house is Ravenclaw, and I'm a lifelong learner always on the hunt for something new to try out.  I'm completing the capstone course for a Bachelor of Science Degree in [Computer Science](https://www.snhu.edu/online-degrees/bachelors/bs-in-computer-science) from [Southern New Hampshire University](https://www.snhu.edu) while supplementing my knowledge with MOOC courses as I look towards the future.
 
-If you'd like to see a copy of my resume, you can find it <a href="{{ site.url }}/assets/docs/Gregory Fellis Resume.pdf"  target="_blank">here</a>.
+I'm currently seeking opportunities to bring my technical and programming experiences, desire to learn new things, and sparkling personality to the right kind of company, team, and role where my contributions will have a positive impact towards resolving interesting problems.  If you'd like to review my resumse, you may find the latest copy [here]({{ site.url }}/assets/docs/Gregory Fellis Resume.pdf).

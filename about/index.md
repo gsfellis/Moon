@@ -17,6 +17,11 @@ My Hogwartz house is Ravenclaw, who prize intelligence, wisdom, and learning abo
 
 As my degree completion looms, I'm seeking opportunities to bring my technical and programming experiences, desire to learn new things, and sparkling personality to the right kind of company, team, and role where my contributions will have a positive impact towards resolving interesting problems.  If you'd like to review my resume, you may find the latest copy [here]({{ site.url }}/assets/docs/Gregory Fellis Resume.pdf).
 
-You can find my profiles on the following MOOC sites:
-
-<center><a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-info">Pluralsight</a> <a href="https://www.udemy.com/user/gregorysfellis/" class="btn btn-info">Udemy</a> <a href="https://www.freecodecamp.org/gsfellis" target="_blank" class="btn btn-info">freeCodeCamp</a></center>
+<center>
+You can keep up with my progress and check out my profiles on the following MOOC sites:
+<p>
+<a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-info">Pluralsight</a>
+<a href="https://www.udemy.com/user/gregorysfellis/" class="btn btn-info">Udemy</a>
+<a href="https://www.freecodecamp.org/gsfellis" target="_blank" class="btn btn-info">freeCodeCamp</a>
+</p>
+</center>

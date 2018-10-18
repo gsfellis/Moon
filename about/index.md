@@ -19,4 +19,4 @@ As my degree completion looms, I'm seeking opportunities to bring my technical a
 
 You can find my profiles on the following MOOC sites:
 
-<center><a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-success">Pluralsight</a> | <a href="https://www.udemy.com/user/gregorysfellis/" class="btn btn-success">Udemy</a> | <a href="https://www.freecodecamp.org/gsfellis" target="_blank" class="btn btn-success">freeCodeCamp</a></center>
+<center><a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-info">Pluralsight</a> <a href="https://www.udemy.com/user/gregorysfellis/" class="btn btn-info">Udemy</a> <a href="https://www.freecodecamp.org/gsfellis" target="_blank" class="btn btn-info">freeCodeCamp</a></center>

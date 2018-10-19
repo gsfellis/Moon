@@ -22,6 +22,6 @@ You can keep up with my progress on the following learning platforms:
 <p>
 <a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-info">Pluralsight</a>
 <a href="https://www.udemy.com/user/gregorysfellis/" class="btn btn-info">Udemy</a>
-<a href="https://www.freecodecamp.org/gsfellis" target="_blank" class="btn btn-info">freeCodeCamp</a>
+<a href="https://www.codewars.com/users/gsfellis" target="_blank" class="btn btn-info">CodeWars</a>
 </p>
 </center>

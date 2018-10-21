@@ -4,8 +4,6 @@ title:  "Noob SNHUbot Enhancement Project"
 date:   2018-10-08
 excerpt: "CS499 Enhancement Artifacts"
 project: true
-tag:
-- Noob SNHUbot
 ---
 
 {% assign this_word = "Noob SNHUbot" %}
@@ -23,6 +21,6 @@ tag:
 
 | Date | Title | Excerpt |
 |-------|--------|---------|
-| test | test | test |
-| test | test | test |
-| test | test | test |
+{% for post in site.tags[this_word] %}{% if post.title != null %}
+    | {{ post.date }} | <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> | {{ post.excerpt }} |
+{% endif %}{% endfor %}

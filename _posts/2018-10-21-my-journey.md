@@ -10,9 +10,21 @@ tag:
 comments: false
 ---
 
+## Professional Self-Assessment Posts
+
+Part 1 - [My Journey]({% post_url 2018-10-21-my-journey %}).
+
+Part 2 - [Program Reflection]({% post_url 2018-10-21-program-reflection %})
+
+Part 3 - [Portfolio Summary]({% post_url 2018-10-21-portfolio-summary %})
+
+---
+
 ![Packard Bell Executive](http://pbclub.pwcsite.com/wiki/images/a/ae/Executive-8707-D.jpg)
 
 ---
+
+## My Journey
 
 As my time at Southern New Hampshire University (SNHU) ends, I can’t help but be overcome with bittersweet emotions reflecting on my experiences.  My personal journey to get to this point has been a long, arduous trip that has taken me down many roads.  It took me awhile to figure out what my destination should be but, now that I’m nearly there, I know that this is what I wanted all along.  I am now, and always have been, a _programmer_.
 

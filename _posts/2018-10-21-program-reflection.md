@@ -10,6 +10,16 @@ tag:
 comments: false
 ---
 
+## Professional Self-Assessment Posts
+
+Part 1 - [My Journey]({% post_url 2018-10-21-my-journey %}).
+
+Part 2 - [Program Reflection]({% post_url 2018-10-21-program-reflection %})
+
+Part 3 - [Portfolio Summary]({% post_url 2018-10-21-portfolio-summary %})
+
+---
+
 ## Collaboration and Communication
 
 As an IT professional working in a project-based, team-oriented atmosphere, I’m often tasked with working with people of varying personalities and talents.  My experience at SNHU was no different in my interactions with other students and faculty.  In business I deal with customers and management, often having to explain very technical details with the non-technical, so I’ve developed a habit of breaking down complex technical details into easily to consume information.  I believe I’ve aptly demonstrated this in my time at SNHU through my many discussion post engagements with other students, as well as the papers I’ve written.

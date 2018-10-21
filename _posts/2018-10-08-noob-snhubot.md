@@ -10,17 +10,17 @@ project: true
 
 <article>
     <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
-
-| Date | Title | Excerpt |
-|-------|--------|---------|
+    <table style="width:100%">
+        <tr>
+            <th>Posted</th>
+            <th>Title</th>
+            <th>Excerpt</th>
+        </tr>
     {% for post in site.tags[this_word] %}{% if post.title != null %}
-| {{ post.date }} | <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> | {{ post.excerpt }} |
+        <tr>
+            <td>{{ post.date }}</td>
+            <td><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></td>
+            <td>{{ post.excerpt }}</td>
+        </tr>
     {% endif %}{% endfor %}
-
-</article><!-- /.hentry -->
-
-| Date | Title | Excerpt |
-|-------|--------|---------|
-{% for post in site.tags[this_word] %}{% if post.title != null %}
-    | {{ post.date }} | <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> | {{ post.excerpt }} |
-{% endif %}{% endfor %}
+    </table>

@@ -8,8 +8,7 @@ project: true
 
 {% assign this_word = "Noob SNHUbot" %}
 
-<article>
-	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
+<article>	
 	<ul>
     {% for post in site.tags[this_word] %}{% if post.title != null %}
         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> posted {{ post.date | date_to_string }} </li>

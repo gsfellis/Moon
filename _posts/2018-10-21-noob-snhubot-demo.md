@@ -2,7 +2,7 @@
 layout: post
 title:  "Noob SNHUbot Demo"
 date:   2018-10-21 14:00:00 +0500
-excerpt: "A demonstration video and post about using Python and Selenium to scrape data from the SNHU Course Catalog."
+excerpt: "A demonstration video presenting recent changes made to the Noob SNHUbot project."
 tag:
 - SNHU Scrape
 - Noob SNHUbot

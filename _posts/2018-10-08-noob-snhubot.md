@@ -11,11 +11,10 @@ tag:
 {% assign this_word = "Noob SNHUbot" %}
 
 <article>
-	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
-	<ul>
+    <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>    
+    | Date | Title | Excerpt |
+    |:--------|:-------:|--------:|
     {% for post in site.tags[this_word] %}{% if post.title != null %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    | {{ post.date }} | <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> | {{ post.excerpt }} |
     {% endif %}{% endfor %}
-	</ul>
 </article><!-- /.hentry -->
-

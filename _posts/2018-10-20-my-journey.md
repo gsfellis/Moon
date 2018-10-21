@@ -2,7 +2,7 @@
 layout: post
 title:  "My Journey"
 date:   2018-10-20 10:49:00 +0500
-excerpt: "Noob SNHUbot Enhancement 1: Task Scheduler."
+excerpt: "How did I get here?"
 tag:
 - Professional Self-Assessment
 - about

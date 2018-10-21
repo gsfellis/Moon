@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Noob SNHUbot Demo"
-date:   2018-10-21 14:00:00 +0500
+date:   2018-10-21 14:00:00
 excerpt: "A demonstration video presenting recent changes made to the Noob SNHUbot project."
 tag:
 - SNHU Scrape

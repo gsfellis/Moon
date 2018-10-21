@@ -9,7 +9,7 @@ tag:
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tags_list = "Noob SNHUbot"}
+{% assign tags_list = "Noob SNHUbot" %}
 
 <ul class="entry-meta inline-list">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}

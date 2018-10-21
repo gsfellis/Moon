@@ -13,7 +13,7 @@ These are all of the blog posts pertaining to the Noob SNHUbot enhancement proje
 <article>
 	<ul>
     {% for post in site.tags[this_word] %}{% if post.title != null %}
-        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> posted {{ post.date | date_to_string }} </li>
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{ post.date | date_to_string }} </li>
     {% endif %}{% endfor %}
 	</ul>
 </article><!-- /.hentry -->

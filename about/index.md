@@ -11,7 +11,7 @@ comments: false
 
 Hello, I'm Greg. Yes, that's a picture of James A. Garfield. He was a great president with an amazing beard. Also, I like lasagna.
 
-I'm an experienced technologist with a passionate about leveraging code to solve problems, currently employed as a Senior Systems Support Engineer.  I love automating processes and programming tools to help people get things done.
+I'm an experienced technologist passionate about leveraging code to solve problems. I love automating processes and programming tools to help people get things done.
 
 My Hogwartz house is Ravenclaw, who prize intelligence, wisdom, and learning above all.  As such, I'm a lifelong learner striving to discover new knowledge to leverage in my endeavors.  I'm completing the capstone course for a Bachelor of Science Degree in [Computer Science](https://www.snhu.edu/online-degrees/bachelors/bs-in-computer-science) from [Southern New Hampshire University](https://www.snhu.edu) while supplementing my knowledge with MOOC courses as I look towards the future.
 

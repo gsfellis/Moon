@@ -10,7 +10,9 @@ tag:
 comments: false
 ---
 
-## My Journey
+![Packard Bell Executive](http://pbclub.pwcsite.com/wiki/images/a/ae/Executive-8707-D.jpg)
+
+---
 
 As my time at Southern New Hampshire University (SNHU) ends, I can’t help but be overcome with bittersweet emotions reflecting on my experiences.  My personal journey to get to this point has been a long, arduous trip that has taken me down many roads.  It took me awhile to figure out what my destination should be but, now that I’m nearly there, I know that this is what I wanted all along.  I am now, and always have been, a _programmer_.
 

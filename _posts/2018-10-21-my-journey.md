@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Journey"
-date:   2018-10-20 10:49:00 +0500
+date:   2018-10-21 22:49:00 +0500
 excerpt: "How did I get here?"
 tag:
 - Professional Self-Assessment

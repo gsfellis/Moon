@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Professional Self-Assessment"
-date:   2018-10-08
+date:   2018-10-21 23:00:00 +0500
 excerpt: "CS499 Professional Self-Assessment Posts"
 project: true
 ---

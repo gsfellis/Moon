@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SNHU Scrape Demo"
-date:   2018-10-19 11:04:00 +0500
+date:   2018-10-21 11:04:00 +0500
 excerpt: "A demonstration video and post about using Python and Selenium to scrape data from the SNHU Course Catalog."
 tag:
 - SNHU Scrape

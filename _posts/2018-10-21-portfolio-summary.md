@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Portfolio Summary"
-date:   2018-10-20 11:10:00 +0500
+date:   2018-10-21 23:10:00 +0500
 excerpt: "A summary of the contents of my portfolio for CS499."
 tag:
 - Professional Self-Assessment

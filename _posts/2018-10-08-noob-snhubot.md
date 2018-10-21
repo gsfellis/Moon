@@ -10,7 +10,7 @@ project: true
 
 <article>
     <h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
-    <table style="width:100%">
+    <table>
         <tr>
             <th>Posted</th>
             <th>Title</th>
@@ -18,7 +18,7 @@ project: true
         </tr>
     {% for post in site.tags[this_word] %}{% if post.title != null %}
         <tr>
-            <td>{{ post.date }}</td>
+            <td>{{ post.date | date_to_string }}</td>
             <td><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></td>
             <td>{{ post.excerpt }}</td>
         </tr>

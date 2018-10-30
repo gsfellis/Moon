@@ -26,7 +26,7 @@ The <a href="https://docs.python.org/3/library/functions.html#map" target="_blan
 For our simple example, lets say we have a `list` of numbers, and we want to raise each of those numbers by a power of `2`.  We start by defining a simple function that will return `x` to the power of `2`, and our list that we will feed in to it.
 
 ```python
-def raise_num(x, n):
+def raise_num(x):
     return x ** 2
 
 lst = [1, 2, 3, 4, 5]

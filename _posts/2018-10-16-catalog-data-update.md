@@ -75,7 +75,7 @@ The command features three different response types.  The first is when a user p
 
 <figcaption>Help Response</figcaption>
 
-!(Noob SNHUbot Catalog Help Response)[{{ site.url }}/assets/img/course_catalog_help_response.png]
+![Noob SNHUbot Catalog Help Response]({{ site.url }}/assets/img/course_catalog_help_response.png)
 
 The second response can be seen in the top image and is when a user passes a particular subject to the `catalog` command, such as "Computer Science", "Accounting", or "Information Technology".  This method will take what the user passes in to it and search the `Catalog.subjects.keys()` for a match, performs a lookup to get the `subject` data from the data structure, then returns a comma separated list of the `subject.keys()`.
 

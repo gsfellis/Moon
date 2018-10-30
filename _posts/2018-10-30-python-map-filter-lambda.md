@@ -15,7 +15,7 @@ comments: false
 
 ---
 
-Now that school has wrapped up I'm working on preparing myself for the future. I'd like to see myself continue to progress in Computer Science, despite not working with code on a regular basis.  For now I'm working through some <a href="https://www.udemy.com" target="_blank">Udemy</a> courses that have been burning a hole in my back pocket while I focused on school.  Today I decided to take a look at <a href="https://www.udemy.com/user/joseportilla/" arget="_blank">Jose Portilla's</a> <a href="https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview" target="_blank">Python for Data Science and Machine Learning Bootcamp</a>.  It rates very highly on Udemy, and so far it has not disappointed.
+Now that school has wrapped up I'm working on preparing myself for the future. I'd like to see myself continue to progress in Computer Science, despite not working with code on a regular basis.  For now I'm working through some <a href="https://www.udemy.com" target="_blank">Udemy</a> courses that have been burning a hole in my back pocket while I focused on school.  Today I decided to take a look at <a href="https://www.udemy.com/user/joseportilla/" target="_blank">Jose Portilla</a>'s <a href="https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview" target="_blank">Python for Data Science and Machine Learning Bootcamp</a>.  It rates very highly on Udemy, and so far it has not disappointed.
 
 The opening section is a "crash course" in Python.  I like to think I'm relatively up to speed on the basics of the Python programming language, having just completed the [SNHU CS499 Capstone]({% post_url 2018-21-noob-snhubot %}) project, but looking through the section I noticed three things that I am far less familiar with than I care to admit: `map`, `filter`, and `lambda` expressions.  So I quickly brushed through the basics, and settled in to these three functions to get a better understanding of their place in Python.
 
@@ -109,4 +109,3 @@ print(four_ltr_words)
  So there you have it.  A quick introduction to `map`, `filter` and `lambda` expressions.  Again, these are simplistic, yet powerful examples that can be used to clean up a lot of code I've written.  It's easy to remember that you can use a `for` loop and a function definition to get what you want, but working in these short-hand versions will save time, SLOC (source lines of code), and, assuming those reading your code understand what these are doing, makes your code more legible.
 
  Until next time...
- 

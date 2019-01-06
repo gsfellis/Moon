@@ -30,7 +30,7 @@ sass:
 #disqus_shortname:   taylantatli
 
 # Pagination
-paginate:           10
+paginate:           7
 paginate_path:      "/posts/page:num/"
 
 # Social

@@ -16,7 +16,7 @@ layout: compress
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title">
-                    <h1>{{ page.title }}</h1>
+                    <h1>{{ page.title }} - Page {{ paginator.page }}</h1>
 
                     {% if paginator.previous_page %}
                         <a class="btn zoombtn previous" href="{{ paginator.previous_page_path }}">

@@ -17,12 +17,27 @@ layout: compress
             <div class="content">
                 <div class="post-title">
                     <h1>{{ page.title }}</h1>
+                    <h3>Page {{ paginator.page }} of {{ paginator.total_pages }}</h3>
+
+                    {% if paginator.previous_page %}
+                        <a class="btn zoombtn previous" href="{{ paginator.previous_page_path }}">
+                            <i class="fa fa-chevron-left"></i>
+                        </a>
+                    {% endif %}
+
                     <a class="btn zoombtn" href="{{site.url}}">
-                        <i class="fa fa-home"></i>
+                            <i class="fa fa-home"></i>
                     </a>
+
+                    {% if paginator.next_page %}
+                        <a  class="btn zoombtn next" href="{{ paginator.next_page_path }}">
+                            <i class="fa fa-chevron-right"></i>    
+                        </a>
+                    {% endif %}
                 </div>
                 <div class="post-list">
-                    {% for post in site.posts %} 
+                    {% for post in paginator.posts %}
+                    <!-- for post in site.posts -->
                         {% if post.project == null %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">

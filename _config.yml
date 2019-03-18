@@ -29,6 +29,10 @@ sass:
 # Comments
 #disqus_shortname:   taylantatli
 
+# Pagination
+paginate:           7
+paginate_path:      "/posts/page:num/"
+
 # Social
 # if you don't have any of social below, comment the line.
 #google:
@@ -69,6 +73,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jeykll-paginate
 
 jekyll-mentions:
     base_url: https://github.com

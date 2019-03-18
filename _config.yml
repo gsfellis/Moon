@@ -8,7 +8,7 @@ logo:               'assets/img/jg_250x250.png'
 background:         'assets/img/keyboard.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://gsfellis.github.io
+url:                https://gsfellis.com
 timezone:           America/New_York
 
 # Jekyll
@@ -38,7 +38,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              gregory.fellis@snhu.edu
+email:              gregfellis@gmail.com
 twitter:            gsfellis
 #facebook:           username
 github-url:         gsfellis

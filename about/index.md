@@ -20,8 +20,8 @@ With my degree in hand, I'm seeking opportunities to bring my technical and prog
 <center>
 You can also see some of my progress on the following learning platforms:
 <p>
-<a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-info">![Pluralsight]({{ site.url }}/assets/img/social/Pluralsight.png)</a>
-<a href="https://www.udemy.com/user/gregorysfellis/" target="_blank" class="btn btn-info">![Udemy]({{ site.url }}/assets/img/social/Udemy.png</a>
-<a href="https://www.codewars.com/users/gsfellis" target="_blank" class="btn btn-info">![CodeWars]({{ site.url }}/assets/img/social/CodeWars.png</a>
+<a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-info"><img src="{{ site.url }}/assets/img/social/Pluralsight.png" alt="Pluralsight" title="Pluralsight"></a>
+<a href="https://www.udemy.com/user/gregorysfellis/" target="_blank" class="btn btn-info"><img src="{{ site.url }}/assets/img/social/Udemy.png" alt="Udemy" title="Udemy"></a>
+<a href="https://www.codewars.com/users/gsfellis" target="_blank" class="btn btn-info"><img src="{{ site.url }}/assets/img/social/CodeWars.png" alt="CodeWars" title="CodeWars"></a>
 </p>
 </center>

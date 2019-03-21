@@ -13,11 +13,11 @@ Hello, I'm Greg. Yes, that's a picture of James A. Garfield. He was a great pres
 
 I'm an experienced technologist passionate about leveraging code to solve problems. I love automating processes and programming tools to help people get things done.
 
-My Hogwartz house is [Ravenclaw](https://www.pottermore.com/collection/all-about-ravenclaw), who prize intelligence, wisdom, and learning above all. As such, I'm a lifelong learner, regularly searching for new knowledge to put to use in my personal and professional endeavors. In October, 2018 I completed the necessary requirements for a Bachelor of Science Degree in [Computer Science](https://www.snhu.edu/online-degrees/bachelors/bs-in-computer-science) from [Southern New Hampshire University](https://www.snhu.edu), summa cum laude. All the while, I've been supplementing my education with online courses to stay up to date with the latest technologies in preparation for an advanced degree.
+My Hogwartz house is [Ravenclaw](https://www.pottermore.com/collection/all-about-ravenclaw), who prize intelligence, wisdom, and learning above all. As such, I'm a lifelong learner, regularly searching for new knowledge to put to use in my personal and professional endeavors. In October, 2018 I completed the necessary requirements for a Bachelor of Science Degree in [Computer Science](https://www.snhu.edu/online-degrees/bachelors/bs-in-computer-science) from [Southern New Hampshire University](https://www.snhu.edu), summa cum laude. Beyond a formal education, I've regularly supplement my knowledge with books and online courses to stay up to date with the latest technologies and preparation for an advanced degree.
 
-With my degree in hand, I'm seeking opportunities to bring my technical and programming experiences, desire to learn new things, and sparkling personality to the right kind of company, team, and role where my contributions will have a positive impact towards resolving interesting problems. If you'd like to review my resume, you may find the latest copy [here]({{ site.url }}/assets/docs/Gregory Fellis Resume.pdf).
+With degree in hand, I'm also seeking opportunities to bring my technical and programming experiences, desire to learn new things, and sparkling personality to the right kind of company, team, and role where my contributions will have a positive impact resolving interesting problems. If you'd like to review my resume you may find the latest copy [here]({{ site.url }}/assets/docs/Gregory Fellis Resume.pdf).
 
-You can also see some of my progress on the following learning platforms:
+If interested, you may also see some of my progress on the following learning platforms:
 
 <center>
 <p>

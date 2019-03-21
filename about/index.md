@@ -17,11 +17,12 @@ My Hogwartz house is [Ravenclaw](https://www.pottermore.com/collection/all-about
 
 With my degree in hand, I'm seeking opportunities to bring my technical and programming experiences, desire to learn new things, and sparkling personality to the right kind of company, team, and role where my contributions will have a positive impact towards resolving interesting problems. If you'd like to review my resume, you may find the latest copy [here]({{ site.url }}/assets/docs/Gregory Fellis Resume.pdf).
 
-<center>
 You can also see some of my progress on the following learning platforms:
+
+<center>
 <p>
-<a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-info"><img src="{{ site.url }}/assets/img/social/Pluralsight.png" alt="Pluralsight" title="Pluralsight"></a>
-<a href="https://www.udemy.com/user/gregorysfellis/" target="_blank" class="btn btn-info"><img src="{{ site.url }}/assets/img/social/Udemy.png" alt="Udemy" title="Udemy"></a>
-<a href="https://www.codewars.com/users/gsfellis" target="_blank" class="btn btn-info"><img src="{{ site.url }}/assets/img/social/CodeWars.png" alt="CodeWars" title="CodeWars"></a>
+<a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-info btn-sm"><img src="{{ site.url }}/assets/img/social/Pluralsight.png" alt="Pluralsight" title="Pluralsight"></a>
+<a href="https://www.udemy.com/user/gregorysfellis/" target="_blank" class="btn btn-info btn-sm"><img src="{{ site.url }}/assets/img/social/Udemy.png" alt="Udemy" title="Udemy"></a>
+<a href="https://www.codewars.com/users/gsfellis" target="_blank" class="btn btn-info btn-sm"><img src="{{ site.url }}/assets/img/social/CodeWars.png" alt="CodeWars" title="CodeWars"></a>
 </p>
 </center>

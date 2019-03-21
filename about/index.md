@@ -21,8 +21,8 @@ If interested, you may also see some of my progress on the following learning pl
 
 <center>
 <p>
-<a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="btn btn-info btn-sm"><img src="{{ site.url }}/assets/img/social/Pluralsight.png" alt="Pluralsight" title="Pluralsight"></a>
-<a href="https://www.udemy.com/user/gregorysfellis/" target="_blank" class="btn btn-info btn-sm"><img src="{{ site.url }}/assets/img/social/Udemy.png" alt="Udemy" title="Udemy"></a>
-<a href="https://www.codewars.com/users/gsfellis" target="_blank" class="btn btn-info btn-sm"><img src="{{ site.url }}/assets/img/social/CodeWars.png" alt="CodeWars" title="CodeWars"></a>
+<a href="https://app.pluralsight.com/profile/gsfellis" target="_blank" class="social-btn"><img src="{{ site.url }}/assets/img/social/Pluralsight.png" alt="Pluralsight" title="Pluralsight"></a>
+<a href="https://www.udemy.com/user/gregorysfellis/" target="_blank" class="social-btn"><img src="{{ site.url }}/assets/img/social/Udemy.png" alt="Udemy" title="Udemy"></a>
+<a href="https://www.codewars.com/users/gsfellis" target="_blank" class="social-btn"><img src="{{ site.url }}/assets/img/social/CodeWars.png" alt="CodeWars" title="CodeWars"></a>
 </p>
 </center>

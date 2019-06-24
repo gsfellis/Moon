@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Continued Education"
-date:   2019-6-24 9:54:00 -0600
+date:   2019-06-24 9:54:00 -0600
+last_modified_at:   2019-06-24 16:40:00 -0600
 excerpt: "A table of progress being made in MOOCs, and other continuing education media."
 tag:
 - Continued Education
@@ -22,7 +23,7 @@ Here's a few things I've been working on, or meaning to learn.  Check back to ke
 | 3 | Python for Data Science and Machine Learning Bootcamp | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview "Udemy") | 61% | []() |
 | 4 | Complete Python Bootcamp | [Udemy](https://www.udemy.com/complete-python-bootcamp/ "Udemy") | 45% | []() |
 | 5 | Data Science A-Z | [Udemy](https://www.udemy.com/datascience/learn/v4/overview "Udemy") | 32% | []() |
-| 6 | Java Programming Masterclass | [Udemy](https://www.udemy.com/java-the-complete-java-developer-course/ "Udemy") | 18% | []() |
+| 6 | Java Programming Masterclass | [Udemy](https://www.udemy.com/java-the-complete-java-developer-course/ "Udemy") | 19% | []() |
 | 7 | C# Intermediate: Classes, Interfaces and OOP | [Udemy](https://www.udemy.com/csharp-intermediate-classes-interfaces-and-oop/ "Udemy") | 0% | []() |
 | 8 | C# Advanced Topics: Prepare for Technical Interviews | [Udemy](https://www.udemy.com/csharp-advanced/ "Udemy") | 0% | []() |
 | 9 | Machine Learning A-Z | [Udemy](https://www.udemy.com/machinelearning/learn/v4/overview "Udemy") | 0% | []() |

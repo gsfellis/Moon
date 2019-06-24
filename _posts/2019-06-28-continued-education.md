@@ -56,7 +56,7 @@ Produces a line like:
 | 1 | C# Basics for Beginners | [Udemy](https://www.udemy.com/csharp-tutorial-for-beginners/ "Udemy") | 100% | [UC-YFS0VOJJ](https://www.udemy.com/certificate/UC-YFS0VOJJ/) |
 ```
 
-Which I can just copy and paste into this MarkDown file.  Additionally, to save, a column for no good reason, I created the `GetURL()` function, which extracts the URL text from a hyperlink in a given cell.
+Which I can just copy and paste into this MarkDown file.  Additionally, to save a column, for no good reason, I created the `GetURL()` function, which extracts the URL text from a hyperlink in a given cell so I could use both the text and the URL in the MarkDown extraction.
 
 ```vb
 Function GetURL(rng As Range) As String

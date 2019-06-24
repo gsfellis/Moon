@@ -10,7 +10,7 @@ tag:
 comments: false
 ---
 
-<img src="https://cdn.pixabay.com/photo/2018/03/21/07/16/learning-3245793_960_720.jpg" alt="Learning" width="50%">
+<img src="https://cdn.pixabay.com/photo/2018/03/21/07/16/learning-3245793_960_720.jpg" alt="Learning" width="35%">
 
 ---
 Here's a few things I've been working on, or meaning to learn.  Check back to keep up with my progress!  I currently have the Excel table ordered by `Progress`, but this is in no real order.

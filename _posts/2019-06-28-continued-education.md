@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Continued Education"
-date:   2019-6-24 9:54:00 -0500
+date:   2019-6-24 9:54:00 -0600
 excerpt: "A table of progress being made in MOOCs, and other continuing education media."
 tag:
 - Continued Education
@@ -13,7 +13,7 @@ comments: false
 <img src="https://cdn.pixabay.com/photo/2018/03/21/07/16/learning-3245793_960_720.jpg" alt="Learning" width="50%">
 
 ---
-Here's a few things I've been working on, or meaning to learn.  Check back to keep up with my progress!
+Here's a few things I've been working on, or meaning to learn.  Check back to keep up with my progress!  I currently have the Excel table ordered by `Progress`, but this is in no real order.
 
 | # | Title | URL | Progress | Acclaim |
 | ---: | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Here's a few things I've been working on, or meaning to learn.  Check back to ke
 | 10 | Deep Learning A-Z | [Udemy](https://www.udemy.com/deeplearning/learn/v4/overview "Udemy") | 0% | []() |
 | 11 | Artificial Intelligence A-Z | [Udemy](https://www.udemy.com/artificial-intelligence-az/learn/v4/overview "Udemy") | 0% | []() |
 | 12 | Learn C the Hard Way | [O'Reilly Learning](https://learning.oreilly.com/library/view/learn-c-the/9780133124385/ "O'Reilly Learning") | 0% | []() |
-| 13 | The Rust Book | [Rust-Lang.Org](https://doc.rust-lang.org/book/second-edition/index.html "Rust-Lang.Org") | 0% | []() |
+| 13 | The Rust Book | [Rust-Lang.Org](https://doc.rust-lang.org/book/title-page.html "Rust-Lang.Org") | 0% | []() |
 | 14 | Complete C# Unity Developer 2D | [Udemy](https://www.udemy.com/unitycourse/learn/v4/overview "Udemy") | 0% | []() |
 | 15 | Complete C# Unity Developer 3D | [Udemy](https://www.udemy.com/unitycourse2/learn/v4/overview "Udemy") | 0% | []() |
 | 16 | RPG Core Combat Creator | [Udemy](https://www.udemy.com/unityrpg/learn/v4/overview "Udemy") | 0% | []() |
@@ -37,6 +37,7 @@ Here's a few things I've been working on, or meaning to learn.  Check back to ke
 | 18 | The Unreal Engine Developer Course | [Udemy](https://www.udemy.com/unrealcourse/learn/v4/overview "Udemy") | 0% | []() |
 | 19 | CS50 Introduction to Computer Science | [Edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/ "Edx") | 0% | []() |
 | 20 | Free Code Camp | [Freecodecamp](https://www.freecodecamp.org/ "Freecodecamp") | 0% | []() |
+
 
 ---
 

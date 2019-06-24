@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Continued Education"
-date:   2019-06-24 9:54:00 -0600
-last_modified_at:   2019-06-24 16:40:00 -0600
+date:   2019-06-24 9:54:00 -0400
+last_modified_at:   2019-06-24 16:40:00 -0400
 excerpt: "A table of progress being made in MOOCs, and other continuing education media."
 tag:
 - Continued Education

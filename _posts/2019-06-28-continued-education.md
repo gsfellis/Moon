@@ -2,7 +2,7 @@
 layout: post
 title:  "Continued Education"
 date:   2019-06-24 9:54:00 -0400
-last_modified_at:   2019-06-25 22:29:00 -0400
+last_modified_at:   2019-09-10 18:55:00 -0400
 excerpt: "A table of progress being made in MOOCs, and other continuing education media."
 tag:
 - Continued Education
@@ -18,27 +18,26 @@ Here's a few things I've been working on, or meaning to learn.  Check back to ke
 
 | # | Title | URL | Progress | Acclaim |
 | ---: | --- | --- | --- | --- |
-| 1 | C# Basics for Beginners | [Udemy](https://www.udemy.com/csharp-tutorial-for-beginners/ "Udemy") | 100% | [UC-YFS0VOJJ](https://www.udemy.com/certificate/UC-YFS0VOJJ/) |
-| 2 | Spring and Spring Boot Fundamentals | [O'Reilly Learning](https://learning.oreilly.com/learning-paths/learning-path-spring/9781492055334/ "O'Reilly Learning") | 100% | []() |
-| 3 | Python for Data Science and Machine Learning Bootcamp | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview "Udemy") | 61% | []() |
-| 4 | Complete Python Bootcamp | [Udemy](https://www.udemy.com/complete-python-bootcamp/ "Udemy") | 45% | []() |
-| 5 | Data Science A-Z | [Udemy](https://www.udemy.com/datascience/learn/v4/overview "Udemy") | 32% | []() |
-| 6 | Java Programming Masterclass | [Udemy](https://www.udemy.com/java-the-complete-java-developer-course/ "Udemy") | 21% | []() |
-| 7 | C# Intermediate: Classes, Interfaces and OOP | [Udemy](https://www.udemy.com/csharp-intermediate-classes-interfaces-and-oop/ "Udemy") | 0% | []() |
-| 8 | C# Advanced Topics: Prepare for Technical Interviews | [Udemy](https://www.udemy.com/csharp-advanced/ "Udemy") | 0% | []() |
-| 9 | Machine Learning A-Z | [Udemy](https://www.udemy.com/machinelearning/learn/v4/overview "Udemy") | 0% | []() |
-| 10 | Deep Learning A-Z | [Udemy](https://www.udemy.com/deeplearning/learn/v4/overview "Udemy") | 0% | []() |
-| 11 | Artificial Intelligence A-Z | [Udemy](https://www.udemy.com/artificial-intelligence-az/learn/v4/overview "Udemy") | 0% | []() |
-| 12 | Learn C the Hard Way | [O'Reilly Learning](https://learning.oreilly.com/library/view/learn-c-the/9780133124385/ "O'Reilly Learning") | 0% | []() |
-| 13 | The Rust Book | [Rust-Lang.Org](https://doc.rust-lang.org/book/title-page.html "Rust-Lang.Org") | 0% | []() |
-| 14 | Complete C# Unity Developer 2D | [Udemy](https://www.udemy.com/unitycourse/learn/v4/overview "Udemy") | 0% | []() |
-| 15 | Complete C# Unity Developer 3D | [Udemy](https://www.udemy.com/unitycourse2/learn/v4/overview "Udemy") | 0% | []() |
-| 16 | RPG Core Combat Creator | [Udemy](https://www.udemy.com/unityrpg/learn/v4/overview "Udemy") | 0% | []() |
-| 17 | Beginning C++ Game Programming | [Packtpub](https://www.packtpub.com/mapt/book/all_books/9781786466198 "Packtpub") | 0% | []() |
-| 18 | The Unreal Engine Developer Course | [Udemy](https://www.udemy.com/unrealcourse/learn/v4/overview "Udemy") | 0% | []() |
-| 19 | CS50 Introduction to Computer Science | [Edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/ "Edx") | 0% | []() |
-| 20 | Free Code Camp | [Freecodecamp](https://www.freecodecamp.org/ "Freecodecamp") | 0% | []() |
-
+| 1 | C# Basics for Beginners | [Udemy](https://www.udemy.com/csharp-tutorial-for-beginners/ "Udemy") | 100% | UC-YFS0VOJJ |
+| 2 | Spring and Spring Boot Fundamentals | [O'Reilly Learning](https://learning.oreilly.com/learning-paths/learning-path-spring/9781492055334/ "O'Reilly Learning") | 100% |  |
+| 3 | Python for Data Science and Machine Learning Bootcamp | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview "Udemy") | 61% |  |
+| 4 | Complete Python Bootcamp | [Udemy](https://www.udemy.com/complete-python-bootcamp/ "Udemy") | 45% |  |
+| 5 | Data Science A-Z | [Udemy](https://www.udemy.com/datascience/learn/v4/overview "Udemy") | 32% |  |
+| 6 | Free Code Camp | [Freecodecamp](https://www.freecodecamp.org/ "Freecodecamp") | 17% |  |
+| 7 | Java Programming Masterclass | [Udemy](https://www.udemy.com/java-the-complete-java-developer-course/ "Udemy") | 12% |  |
+| 8 | C# Intermediate: Classes, Interfaces and OOP | [Udemy](https://www.udemy.com/csharp-intermediate-classes-interfaces-and-oop/ "Udemy") | 0% |  |
+| 9 | C# Advanced Topics: Prepare for Technical Interviews | [Udemy](https://www.udemy.com/csharp-advanced/ "Udemy") | 0% |  |
+| 10 | Machine Learning A-Z | [Udemy](https://www.udemy.com/machinelearning/learn/v4/overview "Udemy") | 0% |  |
+| 11 | Deep Learning A-Z | [Udemy](https://www.udemy.com/deeplearning/learn/v4/overview "Udemy") | 0% |  |
+| 12 | Artificial Intelligence A-Z | [Udemy](https://www.udemy.com/artificial-intelligence-az/learn/v4/overview "Udemy") | 0% |  |
+| 13 | Learn C the Hard Way | [O'Reilly Learning](https://learning.oreilly.com/library/view/learn-c-the/9780133124385/ "O'Reilly Learning") | 0% |  |
+| 14 | The Rust Book | [Rust-Lang.Org](https://doc.rust-lang.org/book/second-edition/index.html "Rust-Lang.Org") | 0% |  |
+| 15 | Complete C# Unity Developer 2D | [Udemy](https://www.udemy.com/unitycourse/learn/v4/overview "Udemy") | 0% |  |
+| 16 | Complete C# Unity Developer 3D | [Udemy](https://www.udemy.com/unitycourse2/learn/v4/overview "Udemy") | 0% |  |
+| 17 | RPG Core Combat Creator | [Udemy](https://www.udemy.com/unityrpg/learn/v4/overview "Udemy") | 0% |  |
+| 18 | Beginning C++ Game Programming | [Packtpub](https://www.packtpub.com/mapt/book/all_books/9781786466198 "Packtpub") | 0% |  |
+| 19 | The Unreal Engine Developer Course | [Udemy](https://www.udemy.com/unrealcourse/learn/v4/overview "Udemy") | 0% |  |
+| 20 | CS50 Introduction to Computer Science | [Edx](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/ "Edx") | 0% |  |
 
 ---
 
